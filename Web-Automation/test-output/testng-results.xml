@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-28T15:55:12 IST" name="Default suite" finished-at="2023-03-28T15:55:13 IST" duration-ms="154">
+    <groups>
+    </groups>
+    <test started-at="2023-03-28T15:55:12 IST" name="Default test" finished-at="2023-03-28T15:55:13 IST" duration-ms="154">
+      <class name="com.sgtesting.assertions.AssertEqualsDemo">
+        <test-method signature="assertNotEqualsTesting()[pri:0, instance:com.sgtesting.assertions.AssertEqualsDemo@429bffaa]" started-at="2023-03-28T15:55:13 IST" name="assertNotEqualsTesting" finished-at="2023-03-28T15:55:13 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNotEqualsTesting -->
+      </class> <!-- com.sgtesting.assertions.AssertEqualsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
